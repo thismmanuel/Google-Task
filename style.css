@@ -1,0 +1,77 @@
+body, p{
+    margin: 0%;
+    padding: 0%;
+}
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    width: 15%;
+    margin-left: auto;
+    padding: 2em;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+nav img{
+    height: 20px;
+}
+#profilethumbnail{
+    height: 30px;
+    border-radius: 100%;
+}
+main{
+    width: 50%;
+    margin: 11em auto;
+    text-align: center;
+}
+main img{
+    width: 40%;
+}
+input{
+    width: 80%;
+    padding: 1em;
+    border-radius: 25px;
+    border: 1px solid gray;
+}
+.buttons{
+    margin-top: 1em;
+}
+.buttons button{
+    padding: 0.75em;
+    border: none;
+}
+footer{
+    background-color: rgb(246, 244, 244);
+    margin: 0%;
+    
+}
+.footer_top{
+    padding: 1em;
+}
+.footer_bottom{
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid grey;
+}
+.left a{
+    margin-right: 1em;
+}
+.right a{
+    margin-right: 1em;
+}
+#carbon_text{
+    margin-right: 10em;
+}
+main div p{
+    margin-top: 1em;
+    justify-content: space-between;
+}
+.offer a{
+    color: blue;
+}
