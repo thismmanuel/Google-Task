@@ -15,7 +15,7 @@ WHAT WAS DIFFICULT
 Positioning the contents in their right place
 Styling the webpage, especially centering and evening out parts of the webpage
 Knowing when to use classes, ids and element tags
-I had some space at the bottom of my page and i did't know why it was there since I did everything just like in the class. I had to increase the margin of the <main> so that the footer can shift downwards
+I had some space at the bottom of my page and i did't know why it was there since I did everything just like in the class. I had to increase the margin of the <main> which caused the footer shift downwards and occupy the space at the bottom
 
 
 
