@@ -1,4 +1,5 @@
-# Google-Task
+# Google-Task 
+https://mannygoogle.netlify.app/ click for live view of my project
  google replicate task on Zuri
 Using a tutorial on Zuri Team Youtube Page
 I was able to replicate the Google Home Page
